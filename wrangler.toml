@@ -1,0 +1,10 @@
+name = "2112signer"
+main = "src/index.js"
+compatibility_date = "2022-05-21"
+
+[vars]
+SIGNER_ADDRESS = "0x444fC66155e3Fba83a1940683622CEcB8AcF432a"
+
+# [secrets]
+# MAINNET_ENDPOINT
+# SIGNER_PRIVATE_KEY
